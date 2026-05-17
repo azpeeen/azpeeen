@@ -87,19 +87,6 @@ Currently, I'm focused on improving my backend architecture, learning modern ful
   </tr>
   <tr>
     <td align="center" width="50%" valign="top" style="padding: 16px;">
-      <h3>🌐 SPLink</h3>
-      <p>
-        Website redesign for a regional internet provider, focused on modern UI,
-        service presentation, lead generation and AI chatbot integration.
-      </p>
-      <p>
-        <strong>Stack:</strong> Node.js, Express, EJS, JavaScript, CSS, Groq AI
-      </p>
-      <p>
-        <a href="https://github.com/azpeeen/SPLink">Repository</a>
-      </p>
-    </td>
-    <td align="center" width="50%" valign="top" style="padding: 16px;">
       <h3>🚀 Inova</h3>
       <p>
         Marketing and technology agency focused on landing pages, automation,
@@ -108,7 +95,20 @@ Currently, I'm focused on improving my backend architecture, learning modern ful
       <p>
         <strong>Focus:</strong> Web Development, UI/UX, Automation, AI Integration
       </p>
+      <p>
+        <a href="https://inova-rouge.vercel.app/">Live Website</a>
+      </p>
     </td>
+    <td align="center" width="50%" valign="top" style="padding: 16px;">
+  <h3>🧠 Theory of Everything (TOE)</h3>
+  <p>
+    Computational physics project designed as an interactive lab for simulating and visualizing
+    complex physical systems, from orbital mechanics to spacetime and energy phenomena.
+  </p>
+  <p>
+    <strong>Focus:</strong> Physics Simulation, WebGL, Numerical Methods, Scientific Visualization
+  </p>
+  </td>
   </tr>
 </table>
 
