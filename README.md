@@ -143,7 +143,7 @@ Currently, I'm focused on improving my backend architecture, learning modern ful
 
 **1️⃣ Backend architecture** — improving my Node.js, Express, database modeling and API design skills.
 
-**2️⃣ Modern full stack development** — learning React, Next.js, TypeScript and Prisma.
+**2️⃣ Modern full stack development** — learning React, Next.js and TypeScript.
 
 **3️⃣ Public repositories** — improving documentation, README quality and project presentation.
 
