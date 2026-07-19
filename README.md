@@ -20,7 +20,7 @@
     <a href="https://www.linkedin.com/in/davi-martins-dos-santos-a0784a324/">
       <img src="https://img.shields.io/badge/LinkedIn-Davi%20Martins-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
     </a>
-    <a href="mailto:davimartins.2611@gmail.com">
+    <a href="mailto:davmartins.2611@gmail.com">
       <img src="https://img.shields.io/badge/Email-davimartins.2611%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
   </p>
