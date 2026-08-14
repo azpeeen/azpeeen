@@ -1,162 +1,151 @@
 <div align="center">
 
-  <h1>Davi Martins</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:38bdf8&height=200&section=header&text=Davi%20Martins&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-  <p><strong>Full Stack Developer building web apps, AI integrations and scientific visualization tools.</strong></p>
+<a href="https://github.com/azpeeen">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Building+AI-powered+web+apps;Scientific+visualization+tools;Always+shipping+something+new&font=Fira+Code&center=true&width=500&height=45&color=38BDF8&vCenter=true&size=22"/>
+</a>
 
-  <p>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-    <img src="https://img.shields.io/badge/Groq_AI-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq AI"/>
-    <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA"/>
-  </p>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq_AI-F55036?style=for-the-badge&logo=groq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white"/>
+</p>
 
-  <p>
-    <a href="https://github.com/azpeeen">
-      <img src="https://img.shields.io/badge/GitHub-azpeeen-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-    </a>
-    <a href="https://www.linkedin.com/in/davi-martins-dos-santos-a0784a324/">
-      <img src="https://img.shields.io/badge/LinkedIn-Davi%20Martins-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:davmartins.2611@gmail.com">
-      <img src="https://img.shields.io/badge/Email-davmartins.2611%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-  </p>
+<p>
+  <a href="https://github.com/azpeeen"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=azpeeen&style=flat-square&color=38bdf8&label=Profile+Views"/>
 
 </div>
 
----
+<br>
 
-## Index
+<div align="center">
 
-- [About](#about)
-- [Featured Projects](#featured-projects)
-- [Tech Stack](#tech-stack)
-- [Technical Highlights](#technical-highlights)
-- [Current Focus](#current-focus)
-- [Background](#background)
-- [Contact](#contact)
+### 📑 Index
 
----
+<p>
+  <a href="#about"><img src="https://img.shields.io/badge/About-1e293b?style=for-the-badge&logoColor=white"/></a>
+  <a href="#featured-projects"><img src="https://img.shields.io/badge/Featured_Projects-1e293b?style=for-the-badge&logoColor=white"/></a>
+  <a href="#tech-stack"><img src="https://img.shields.io/badge/Tech_Stack-1e293b?style=for-the-badge&logoColor=white"/></a>
+  <br>
+  <a href="#technical-highlights"><img src="https://img.shields.io/badge/Technical_Highlights-1e293b?style=for-the-badge&logoColor=white"/></a>
+  <a href="#current-focus"><img src="https://img.shields.io/badge/Current_Focus-1e293b?style=for-the-badge&logoColor=white"/></a>
+  <a href="#background"><img src="https://img.shields.io/badge/Background-1e293b?style=for-the-badge&logoColor=white"/></a>
+  <a href="#contact"><img src="https://img.shields.io/badge/Contact-1e293b?style=for-the-badge&logoColor=white"/></a>
+</p>
+
+</div>
+
+<br>
 
 ## About
 
-I'm a full stack developer from Brazil focused on building real web products with clean interfaces, practical backend logic and AI-powered features.
+I'm a full stack developer from Brazil focused on building real web products — clean interfaces, practical backend logic and AI-powered features.
 
-My main stack includes **JavaScript**, **Node.js**, **Express**, **EJS**, **MySQL**, **HTML**, **CSS**, **APIs**, **Git**, **GitHub**, deployment workflows and AI integrations.
+Main stack: JavaScript, Node.js, Express, EJS, MySQL, HTML, CSS, APIs, Git, GitHub, deployment workflows and AI integrations.
 
-I like working across the full product cycle: idea, interface, backend, database, integrations, deployment and iteration.
+I like working across the full product cycle: idea → interface → backend → database → integrations → deployment → iteration.
 
-Currently, I'm focused on improving my backend architecture, learning modern full stack tools like **React**, **Next.js** and **TypeScript**, and turning academic and personal projects into production-level software.
+Currently focused on improving backend architecture, learning React, Next.js and TypeScript, and turning academic/personal projects into production-level software.
 
----
+<br>
 
 ## Featured Projects
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%" valign="top" style="padding: 16px;">
-      <h3>🏋️ GymBros</h3>
-      <p>
-        AI-powered full stack gym platform with student/admin areas, workout flows,
-        payments, notifications, QR code equipment flows and responsive interfaces.
-      </p>
-      <p>
-        <strong>Stack:</strong> Node.js, Express, EJS, JavaScript, MySQL, Groq AI, Cloudinary, PWA
-      </p>
-      <p>
-        <a href="https://gymbros.app.br">Live Demo</a> ·
-        <a href="https://github.com/azpeeen/GymBros">Repository</a>
-      </p>
-    </td>
-    <td align="center" width="50%" valign="top" style="padding: 16px;">
-      <h3>🌌 NEO Radar</h3>
-      <p>
-        Near-Earth object visualization engine using NASA/JPL data, orbital mechanics
-        and 3D web rendering.
-      </p>
-      <p>
-        <strong>Stack:</strong> JavaScript, Three.js, APIs, WebGL, Data Visualization
-      </p>
-      <p>
-        <a href="https://github.com/azpeeen/NEO-Radar">Repository</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" valign="top" style="padding: 16px;">
-      <h3>🚀 Inova</h3>
-      <p>
-        Marketing and technology agency focused on landing pages, automation,
-        digital products and AI-powered solutions for businesses.
-      </p>
-      <p>
-        <strong>Focus:</strong> Web Development, UI/UX, Automation, AI Integration
-      </p>
-      <p>
-        <a href="https://inova-rouge.vercel.app/">Live Website</a>
-      </p>
-    </td>
-    <td align="center" width="50%" valign="top" style="padding: 16px;">
-  <h3>🧠 Theory of Everything (TOE)</h3>
-  <p>
-    Computational physics project designed as an interactive lab for simulating and visualizing
-    complex physical systems, from orbital mechanics to spacetime and energy phenomena.
-  </p>
-  <p>
-    <strong>Focus:</strong> Physics Simulation, WebGL, Numerical Methods, Scientific Visualization
-  </p>
-  </td>
-  </tr>
+<table>
+<tr>
+<td width="50%">
+
+### 🏋️ GymBros
+AI-powered full stack gym platform with student/admin areas, workout flows, payments, notifications, QR code equipment flows and responsive interfaces.
+
+**Stack:** Node.js · Express · EJS · JavaScript · MySQL · Groq AI · Cloudinary · PWA
+
+[Live Demo](#) · [Repository](#)
+
+</td>
+<td width="50%">
+
+### 🌌 NEO Radar
+Near-Earth object visualization engine using NASA/JPL data, orbital mechanics and 3D web rendering. 41k+ objects, real physics (RK4 N-body + Kepler), 20 moons, comets with dual tails.
+
+**Stack:** JavaScript · Three.js · WebGL · APIs · Data Visualization
+
+[Live](https://neoradar.space) · [Repository](https://github.com/azpeeen/NEO-Radar)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🚀 Inova
+Marketing and technology agency focused on landing pages, automation, digital products and AI-powered solutions for businesses.
+
+**Focus:** Web Development · UI/UX · Automation · AI Integration
+
+[Live Website](#)
+
+</td>
+<td width="50%">
+
+### 🧠 Theory of Everything (TOE)
+Computational physics project designed as an interactive lab for simulating and visualizing complex physical systems — from orbital mechanics to spacetime and energy phenomena.
+
+**Focus:** Physics Simulation · WebGL · Numerical Methods · Scientific Visualization
+
+</td>
+</tr>
 </table>
 
----
+<br>
 
 ## Tech Stack
 
-| | Area | Technologies |
-|---|---|---|
-| 🎨 | **Frontend** | HTML, CSS, JavaScript, EJS, React basics, Responsive Web Design |
-| ⚙️ | **Backend** | Node.js, Express, PHP, Laravel |
-| 🗄️ | **Databases** | MySQL, PostgreSQL, Supabase |
-| 🤖 | **AI & APIs** | Groq AI, API integrations, automation workflows, structured AI outputs |
-| 🚀 | **Deploy & Tools** | Git, GitHub, Render, Vercel, Railway |
-| 📚 | **Learning** | React, Next.js, TypeScript, Prisma, software architecture |
+| Area | Technologies |
+|---|---|
+| 🎨 Frontend | HTML, CSS, JavaScript, EJS, React basics, Responsive Web Design |
+| ⚙️ Backend | Node.js, Express, PHP, Laravel |
+| 🗄️ Databases | MySQL, PostgreSQL, Supabase |
+| 🤖 AI & APIs | Groq AI, API integrations, automation workflows, structured AI outputs |
+| 🚀 Deploy & Tools | Git, GitHub, Hostinger, Vercel, Railway |
+| 📚 Learning | React, Next.js, TypeScript, Prisma, software architecture |
 
----
+<br>
 
 ## Technical Highlights
 
-- **Full stack product development** — building complete web applications from interface to backend, database and deployment.
-- **AI integrations** — using LLMs for chat, structured responses, automation concepts and product features.
-- **PWA architecture** — installable web apps, service workers, offline-first behavior and browser-based notifications.
-- **Web Push VAPID** — push notification flow with server-side delivery and persisted subscriptions.
-- **Database-backed features** — authentication, user flows, dashboards, tracking and saved user data.
-- **API integrations** — connecting external services into real product flows.
-- **Product thinking** — turning academic and personal projects into usable software with practical value.
+- **Full stack product development** — building complete web applications from interface to backend, database and deployment
+- **AI integrations** — using LLMs for chat, structured responses, automation concepts and product features
+- **PWA architecture** — installable web apps, service workers, offline-first behavior and browser-based notifications
+- **Web Push VAPID** — push notification flow with server-side delivery and persisted subscriptions
+- **Database-backed features** — authentication, user flows, dashboards, tracking and saved user data
+- **API integrations** — connecting external services into real product flows
+- **Product thinking** — turning academic and personal projects into usable software with practical value
 
----
+<br>
 
 ## Current Focus
 
-**1️⃣ Backend architecture** — improving my Node.js, Express, database modeling and API design skills.
+1️⃣ **Backend architecture** — improving Node.js, Express, database modeling and API design skills
+2️⃣ **Modern full stack development** — learning React, Next.js and TypeScript
+3️⃣ **Public repositories** — improving documentation, README quality and project presentation
+4️⃣ **Real products** — building systems with clean UI, practical backend logic and AI-powered workflows
 
-**2️⃣ Modern full stack development** — learning React, Next.js and TypeScript.
-
-**3️⃣ Public repositories** — improving documentation, README quality and project presentation.
-
-**4️⃣ Real products** — building systems with clean UI, practical backend logic and AI-powered workflows.
-
----
+<br>
 
 ## Background
 
-I'm currently enrolled in an **Integrated Technical High School Program in Internet Informatics** at ITB Brasílio Flores de Azevedo.
+Currently enrolled in an Integrated Technical High School Program in Internet Informatics at ITB Brasílio Flores de Azevedo.
 
 The program combines regular high school education with technical training in:
-
 - Web development
 - Programming
 - Databases
@@ -165,30 +154,22 @@ The program combines regular high school education with technical training in:
 - Entrepreneurship
 - Practical software projects
 
-I also have **6 medals in science olympiads**, including an international medal.
+6 medals in science olympiads, including an international medal.
 
----
+<br>
 
 ## Contact
 
-<div align="center">
-
-  <a href="https://github.com/azpeeen">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/davi-martins-dos-santos-a0784a324/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:davimartins.2611@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-
-</div>
-
----
+<p>
+  <a href="https://github.com/azpeeen"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 <div align="center">
 
-### Building real projects. Learning fast. Shipping constantly.
+**Building real projects. Learning fast. Shipping constantly.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:1e3a8a&height=100&section=footer" width="100%"/>
 
 </div>
