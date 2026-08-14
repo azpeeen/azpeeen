@@ -21,7 +21,6 @@
   <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=azpeeen&style=flat-square&color=38bdf8&label=Profile+Views"/>
 
 </div>
 
