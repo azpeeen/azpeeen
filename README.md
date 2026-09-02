@@ -68,7 +68,7 @@ AI-powered full stack gym platform with student/admin areas, workout flows, paym
 
 **Stack:** Node.js · Express · EJS · JavaScript · MySQL · Groq AI · Cloudinary · PWA
 
-[Live Demo](#) · [Repository](#)
+[Live Demo](https://gymbros.app.br/)
 
 </td>
 <td width="50%">
@@ -90,7 +90,7 @@ Marketing and technology agency focused on landing pages, automation, digital pr
 
 **Focus:** Web Development · UI/UX · Automation · AI Integration
 
-[Live Website](#)
+[Live Website](https://mistyrose-wolf-180150.hostingersite.com/)
 
 </td>
 <td width="50%">
